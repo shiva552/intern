@@ -1,0 +1,62 @@
+/*NAVBAR*/
+.shad{
+    box-shadow: 10px 10px 5px grey;
+}
+.logo{
+    width: 60px;
+    margin-left: 10px;
+}
+.nav_mar{
+    margin-left: 310px;
+}
+.nav_div{
+    margin-left: 122px;
+    text-align: center;
+}
+.icon{
+    color: black;
+    font-size: 14px;
+}
+.login{
+    margin-left: 235px;
+    margin-top: 10px;
+}
+.nav_txt{
+    color: #7c6f6f;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: 'Benne', serif;
+}
+
+
+/*HEADING*/
+.htxt{
+    font-family: 'Rubik', sans-serif;
+}
+
+/*IMAGES*/
+.bord{
+    overflow: hidden;
+    border-radius: 26px;
+}
+.marg{
+    margin-top: 150px;
+}
+.zoom {
+  padding: 50px;
+  transition: transform .2s; /* Animation */
+  height: 280px;
+  margin: 0 auto;
+}
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.bgtxt{
+    color: #ffffff;
+    font-weight: 700;
+    position: relative;
+    top: 98px;
+    left: 61px;
+    font-size: 14px;
+    font-family: 'Benne', serif;
+}
